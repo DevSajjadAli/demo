@@ -27,7 +27,6 @@ const config: Config = {
   projectName: 'demo', // Usually your repo name.
   deploymentBranch: 'gh-pages', // The branch that GitHub pages will deploy from.
   
-
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
