@@ -83,7 +83,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'https://hopevalley.cloud/wp-content/uploads/2025/06/Untitled-design-13.png',
     navbar: {
       title: 'HV Docs',
       logo: {
@@ -149,6 +149,9 @@ const config: Config = {
       //   },
       // ],
       copyright: `Copyright © ${new Date().getFullYear()} HV Docs. Made with ❤️ by HopeValley.Cloud`,
+      
+
+      
     },
     prism: {
       theme: prismThemes.github,
