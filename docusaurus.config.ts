@@ -26,6 +26,7 @@ const config: Config = {
   organizationName: 'omegaark', // Usually your GitHub org/user name.
   projectName: 'demo', // Usually your repo name.
   deploymentBranch: 'gh-pages', // The branch that GitHub pages will deploy from.
+  trailingSlash: false, // Whether to add a trailing slash to URLs
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
