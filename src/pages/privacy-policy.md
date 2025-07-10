@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy"
+slug: /privacy-policy
 ---
 
 # Privacy Policy
@@ -56,8 +57,6 @@ We maintain a whistleblowing channel; serious breaches are reported per legal ti
 Any updates will be posted with a new effective date. Continuing use implies acceptance.
 
 ## 12. Contact  
-Data Protection Officer: dpo@hopevalley.cloud  
-Address: [Business Address depending on entity]
-
+Data Protection Officer: support@hopevalley.cloud
 ---
 

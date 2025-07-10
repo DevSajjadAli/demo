@@ -1,5 +1,6 @@
 ---
 title: "Cookie Policy"
+slug: /cookie-policy
 ---
 
 # Cookie Policy

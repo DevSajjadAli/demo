@@ -1,5 +1,6 @@
 ---
 title: "Acceptable Use Policy"
+slug: /acceptable-use-policy
 ---
 
 # Acceptable Use Policy

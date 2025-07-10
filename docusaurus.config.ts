@@ -8,7 +8,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'HV Docs',
   tagline: 'Documentation for Hope Valley Cloud',
-  favicon: 'https://hopevalley.cloud/wp-content/uploads/2024/12/favicong.png',
+  favicon: '/static/img/facicong.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -84,7 +84,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'https://hopevalley.cloud/wp-content/uploads/2025/06/Untitled-design-13.png',
+    image: '/static/img/card.png',
     navbar: {
       title: 'HV Docs',
       logo: {

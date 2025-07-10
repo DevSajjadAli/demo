@@ -1,5 +1,6 @@
 ---
 title: "Data Processing Agreement (DPA)"
+slug: /DPA
 ---
 
 # Data Processing Addendum

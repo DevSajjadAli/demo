@@ -1,5 +1,6 @@
 ---
 title: "Service Level Agreement (SLA)"
+slug: /sla
 ---
 
 # Service Level Agreement

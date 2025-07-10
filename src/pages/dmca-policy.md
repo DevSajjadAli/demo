@@ -1,5 +1,6 @@
 ---
 title: "DMCA / Copyright Policy"
+slug: /DMCA
 ---
 
 # DMCA & Copyright Policy
