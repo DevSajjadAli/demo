@@ -1,34 +1,35 @@
 ---
 title: "Service Level Agreement (SLA)"
-slug: /sla
+description: "Service Level Agreement for Hope Valley Cloud, detailing uptime guarantees, downtime credits, exemptions, claim procedures, and policy changes."
+slug: "sla"
 ---
 
-# Service Level Agreement
+# Service Level Agreement (SLA)
 
 **Effective:** 2025‑07‑10
 
 ## 1. Uptime Guarantee  
-We guarantee **99.9%** monthly uptime. If we fall below it:
-- Credit = (Downtime % – 0.1%) × monthly fee
+We guarantee **99.9%** uptime per calendar month across Shared, VPS, and Cloud hosting.
 
-## 2. Measuring Uptime  
-Measured via external monitoring. Scheduled maintenance windows exempted with prior notice.
+## 2. Downtime Credits  
+If uptime falls under 99.9%, you may claim:
 
-## 3. Credit Limitations  
-- Max credit: 50% of one month’s fee  
-- Credits do not apply to free tiers, domains, add‑ons, or DDoS/force majeure events.
+- 99.0–99.9% &rarr; 10% credit of monthly fee  
+- 95.0–99.0% &rarr; 25% credit  
+- &lt;95.0% &rarr; 50% credit
 
-## 4. Claim Process  
-File a claim within 30 days of incident with supporting logs.
+## 3. Exemptions  
+The SLA does not apply to:
 
-## 5. Exclusions  
-No credit for:
-- User error  
-- External issues (ISP, client-side network)  
-- Force majeure events
+- Scheduled maintenance (with advance notice)  
+- Denial-of-Service (DoS) or malicious traffic  
+- Client-side issues (ISP, DNS, user config)
 
-## 6. Changes  
-We may change SLA with 30 days' notice; updates posted online.
+## 4. Claim Procedure  
+Submit a support ticket within 30 days with detailed logs. Credited amount will apply to your next billing cycle.
 
----
+## 5. Maximum Liability  
+Total SLA credits per incident capped at 50% of one monthly service charge.
 
+## 6. Policy Changes  
+We may change the SLA with 30 days’ notice; updated terms will be posted online.

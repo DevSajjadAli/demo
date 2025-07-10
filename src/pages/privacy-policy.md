@@ -1,6 +1,7 @@
 ---
 title: "Privacy Policy"
-slug: /privacy-policy
+description: "Privacy Policy for Hope Valley Cloud, detailing data collection, usage, rights, and security measures."
+slug: "privacy-policy"
 ---
 
 # Privacy Policy
@@ -8,55 +9,68 @@ slug: /privacy-policy
 **Last updated:** 2025‑07‑10
 
 ## 1. Data Controller  
-Hope Valley Cloud (EU entity, Cyprus, or APAC, Singapore) is the data controller for our services.
+Hope Valley Cloud, registered in Finland, processes your data under Finnish and EU/GDPR regulations.
 
-## 2. Data Protection Principles  
-We observe GDPR principles:
-- Lawfulness, fairness, transparency  
-- Data minimisation  
-- Purpose limitation  
-- Accuracy  
-- Storage limitation  
-- Integrity & confidentiality :contentReference[oaicite:11]{index=11}
+## 2. Collection of Personal Data  
+We collect the following types:
+- **Account Data:** name, email, billing info, business address.  
+- **Technical Data:** IP addresses, device/browser stats, logs, uptime metrics.  
+- **Transactional Data:** services ordered, billing amount, payment methods.  
+- **Support Data:** chat tickets, email correspondence, support requests.  
+- **Optional Marketing Preferences:** newsletter consent, tracking settings.
 
-## 3. Categories of Personal Data  
-- **Account data**: name, email, address, billing  
-- **Technical data**: IP, device/browser info, logs, usage metrics  
-- **Transaction data**: purchased services, domains, payments  
-- **Support data**: correspondence, tickets
+## 3. Purpose & Legal Basis  
+Your data is used to:
+- Provide Services, process payments, support requests.  
+- Comply with legal obligations (tax, billing, KYC).  
+- Maintain operational and system security.  
+- Marketing communications where you have consented.
 
-## 4. Purposes & Legal Basis  
-We use data to:
-- Provide services & billing  
-- Offer support & resolve issues  
-- Ensure security, prevent fraud  
-- Fulfil legal obligations (e.g., tax, IP enforcement)
+## 4. Data Sharing  
+- **Processors:** payment gateways, hosting providers (e.g., data centers), support platforms—under binding contracts.  
+- **Legal compliance:** with Finnish, Pakistani, or EU + global authorities as required by law.
 
-## 5. Data Sharing & Transfers  
-- With payment processors, infrastructure partners, legal authorities  
-- Transfers may occur within the EU or per GDPR-standard clauses :contentReference[oaicite:12]{index=12}
+## 5. International Data Transfers  
+Data may be transferred within the EU, and to Pakistan or other jurisdictions under EU Standard Contractual Clauses or equivalent safeguards.
 
-## 6. Cookies & Tracking  
-- **Essential**: sessions, login  
-- **Analytics**: usage patterns (e.g. Google Analytics)  
-- **Marketing**: adverts (with consent)
+## 6. Cookie & Tracking Transparency  
+We use cookies for:
+- **Essential:** login, session, site stability.  
+- **Analytics:** internal usage tracking.  
+- **Marketing:** personalisation, retargeting (with consent via cookie banner).
 
-## 7. Data Subject Rights  
-You have rights to: access, rectification, erasure, restriction, portability, objection, and withdraw consent.
+## 7. Rights of Data Subjects  
+Under GDPR, you may:
+- Access personal data.  
+- Request correction or deletion.  
+- Restrict or object to processing.  
+- Get portability of data.  
+- Withdraw consent (where applicable).  
+- File complaints with Finnish DPA.
+
+To exercise rights, email **support@hopevalley.cloud**.
 
 ## 8. Data Retention  
-We retain data only while necessary for contract performance, legal obligations, or legitimate interest.
+We retain data only as necessary for service provision, legal compliance, fraud prevention, or detection of abuse. Inactive/deleted accounts have data deleted per our internal policy.
 
-## 9. Security Measures  
-We follow ISO/IEC 27001 standards and implement organizational, technical, and physical safeguards :contentReference[oaicite:13]{index=13}.
+## 9. Security Safeguards  
+We apply organizational and technical controls including:
+- ISO/IEC 27001-aligned procedures  
+- AES‑256 encryption for data at rest  
+- TLS 1.2+ encryption for data in transit  
+- Secure and restricted access controls
 
-## 10. Breach Notifications  
-We maintain a whistleblowing channel; serious breaches are reported per legal timelines under GDPR :contentReference[oaicite:14]{index=14}.
+## 10. Data Breach Notification  
+Upon identifying a breach, we will:
+- Contain and assess the incident  
+- Notify individuals (when personal data at risk) within 72 hours  
+- Cooperate with regulatory authorities
 
-## 11. Changes to this Policy  
-Any updates will be posted with a new effective date. Continuing use implies acceptance.
+## 11. Policy Updates  
+Unless required by law, we’ll notify you of any material changes in advance. Continued use after updates implies acceptance.
 
-## 12. Contact  
-Data Protection Officer: support@hopevalley.cloud
----
-
+## 12. Contact Us  
+- **General inquiries:** info@hopevalley.cloud  
+- **Support & data rights:** support@hopevalley.cloud  
+- **WhatsApp assistance:** +358 46 5795294  
+- **Glad to assist at:** Espoo, Finland and Islamabad, Pakistan.

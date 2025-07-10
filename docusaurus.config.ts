@@ -8,7 +8,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'HV Docs',
   tagline: 'Documentation for Hope Valley Cloud',
-  favicon: '/static/img/facicong.png',
+  favicon: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisQ5J6QH7dJHxJW7pf1uRUhyphenhyphenftj2OuNh3wZr_fnPGC5w1urt_YdfrJtz_RP3rl2HUdKNoVyxsG7vPCcDMYNEH7JAvVKStJEnqUlEUS9vIZpCZm-WwfOJylyEtJJDQ5IsH8U8FwQv-eXWURit4TxHMg8greMG3lxPNIX0rldy493iN5FpseRkbM5XloJwSO/s1600/favicong.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -84,12 +84,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: '/static/img/card.png',
+    image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDSMaHekIRQxljsi_pp0gKjvxw_yk-BZLTgS9FCXIjWWt-RYZDsT0UR8GBxYGo22-pSWBAhyphenhyphen40uw399DBGfcbyxqOS4OtP1ic8S0TTQE-UsuoIs4wm7fnusHLu8uiNo9B4w85zp6Yusnv9wNSz08MepRrpq7_DrqFjwKa9t0aDWpK8TlYi9yC-JZ4aWJZP/s320/card.png',
     navbar: {
       title: 'HV Docs',
       logo: {
         alt: 'Hope Valley Cloud Logo',
-        src: 'https://hopevalley.cloud/wp-content/uploads/2024/12/favicong.png',
+        src: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisQ5J6QH7dJHxJW7pf1uRUhyphenhyphenftj2OuNh3wZr_fnPGC5w1urt_YdfrJtz_RP3rl2HUdKNoVyxsG7vPCcDMYNEH7JAvVKStJEnqUlEUS9vIZpCZm-WwfOJylyEtJJDQ5IsH8U8FwQv-eXWURit4TxHMg8greMG3lxPNIX0rldy493iN5FpseRkbM5XloJwSO/s1600/favicong.png',
       },
       items: [
         {
@@ -99,16 +99,42 @@ const config: Config = {
           label: 'Tutorial',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
-        // {
-        //   href: 'https://github.com/facebook/docusaurus',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
+        {
+          href: 'https://hopevalley.cloud',
+          label: 'Get Started',
+          position: 'right',
+        },
       ],
     },
     footer: {
       style: 'dark',
-      // links: [
+
+      links: [
+        {
+          title: 'Products',
+          items: [
+            {label: 'Web Hosting', to: 'https://hopevalley.cloud/index.php?rp=/store/sha'},
+            {label: 'SSL Certificates', to: 'https://hopevalley.cloud/index.php?rp=/store/ssl-certificates'},
+            {label: 'VPN', to:'https://hopevalley.cloud/index.php?rp=/store/nordvpn'},
+            {label: 'Web Builder', to: 'https://hopevalley.cloud/index.php?rp=/store/website-builder'},
+            {label: 'Web Security', to:'https://hopevalley.cloud/index.php?rp=/store/sitelock'},
+            {label: 'Email Services', to: 'https://hopevalley.cloud/index.php?rp=/store/email-services'},
+
+          ],
+        },
+        {
+          title: 'Legal',
+          items: [
+            {label: 'Terms of Service', to: '/terms-of-service'},
+            {label: 'Privacy Policy', to: '/privacy-policy'},
+            {label: 'Data Processing Agreement', to: '/data-processing-agreement'},
+            {label: 'Cookie Policy', to: '/cookie-policy'},
+            {label: 'Refund Policy', to: '/refund-policy'},
+            {label: 'Acceptable Use Policy', to: '/acceptable-use-policy'},
+          ],
+        },
+
+      ],
       //   {
       //     title: 'Docs',
       //     items: [
